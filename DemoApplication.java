@@ -40,7 +40,7 @@ public class DemoApplication {
 		}
 		@RequestMapping("/doctor/4")
 		@ResponseBody
-		public String doctorfour () {
+		public String doctorFour () {
 			return "Tom Baker";
 		}
 
